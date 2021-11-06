@@ -1,0 +1,14 @@
+transformers==3.0.2
+scipy
+scikit-learn
+fuzzysearch
+python-Levenshtein
+elasticsearch
+redis
+tqdm
+regex
+ujson
+pexpect
+prettytable>=2.0.0
+flask-restful
+requests
